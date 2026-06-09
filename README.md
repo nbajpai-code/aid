@@ -62,13 +62,13 @@ Want to see where your visitors are coming from? You can add visitor tracking to
 ```markdown
 [![Clustrmaps](https://clustrmaps.com/map_v2.png?d=YOUR_ID&cl=ffffff&w=a)](https://clustrmaps.com/site/YOUR_ID)
 ```
-[![Clustrmaps](https://clustrmaps.com/map_v2.png?d=YOUR_ID&cl=ffffff&w=a)](https://clustrmaps.com/site/nbajpai-code)
+[![Clustrmaps](https://clustrmaps.com/map_v2.png?d=YOUR_ID&cl=ffffff&w=a)](https://clustrmaps.com/site/https://github.com/nbajpai-code)
 
 **Flag Counter (List View)**
 ```markdown
 [![Flag Counter](https://s11.flagcounter.com/count/YOUR_ID/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/)](https://info.flagcounter.com/YOUR_ID)
 ```
-[![Flag Counter](https://s11.flagcounter.com/count/nbajpai-code/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/)](https://info.flagcounter.com/nbajpai-code)
+[![Flag Counter](https://s11.flagcounter.com/count/https://github.com/nbajpai-code/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/)](https://info.flagcounter.com/https://github.com/nbajpai-code)
 ---
 
 ## 📝 License
